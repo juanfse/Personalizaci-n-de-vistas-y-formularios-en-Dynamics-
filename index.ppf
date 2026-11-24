@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Personalización de vistas y formularios en Dynamics 365 F&amp;O" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="assets\index.html">
+    
+    <topic>
+      assets\index.html
+    </topic>
+    
+    <topic>
+      assets\topics\01-introduccion.html
+    </topic>
+    
+    <topic>
+      assets\topics\02-agregar-campo.html
+    </topic>
+    
+    <topic>
+      assets\topics\03-cambiar-nombre.html
+    </topic>
+    
+    <topic>
+      assets\topics\04-ocultar-campo.html
+    </topic>
+    
+    <topic>
+      assets\topics\05-mostrar-campo.html
+    </topic>
+    
+    <topic>
+      assets\topics\06-reorganizar-campos.html
+    </topic>
+    
+    <topic>
+      assets\topics\07-omitir-secuencia.html
+    </topic>
+    
+    <topic>
+      assets\topics\08-bloquear-campo.html
+    </topic>
+    
+    <topic>
+      assets\topics\09-personalizar-vista.html
+    </topic>
+    
+    <topic>
+      assets\topics\10-exportar.html
+    </topic>
+    
+    <topic>
+      assets\topics\11-importar.html
+    </topic>
+    
+    <topic>
+      assets\topics\12-eliminar.html
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        es_ES
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>
